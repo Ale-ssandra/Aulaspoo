@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\lelep\Serratec\Aulas-poo\.metadata\.plugins\org.eclipse.jdt.core
+252201028.index
+1614147643.index
+1794749060.index
+2477119919.index
+3919148613.index
+1865797976.index

@@ -1,0 +1,10 @@
+
+public class ExemploVariaveis {
+
+	public static void main(String[] args) {
+		final int idade =20;
+		float altura = 1.89f;
+		double peso = 60.00;
+	}
+
+}
